@@ -1,7 +1,7 @@
-numero1 = int(input("Informe o primeiro número: "));
-numero2 = int(input("Informe o segundo número: "));
+numero1 = int(input("Informe o primeiro número: "))
+numero2 = int(input("Informe o segundo número: "))
 
-soma = num_1 + num_2
+soma = numero1 + numero2
 
 maior = soma + 8
 

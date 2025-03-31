@@ -1,6 +1,6 @@
 temp_Kelvin = int(input("Informe a temperatura em Kenvil: "))
 
-fahr = (temp_Kelvinkelvin - 273.15) * 1.8 + 32
+fahr = (temp_Kelvin - 273.15) * 1.8 + 32
 
 celsius = temp_Kelvin - 273.15
 

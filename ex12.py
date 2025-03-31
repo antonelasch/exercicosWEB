@@ -2,7 +2,7 @@ nota1 = int(input("Informe a primeira nota: "))
 nota2 = int(input("Informe a segunda nota: "))
 nota3 = int(input("Informe a terceira nota: "))
 
-media = (nota_1 + nota_2 + nota_3) / 3
+media = (nota1 + nota2 + nota3) / 3
 
 if media >= 7: print("O aluno foi APROVADO")
 
